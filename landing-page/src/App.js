@@ -5,6 +5,7 @@ import Header from "./components/Header"
 import Main from "./components/Main"
 import Guias from "./components/Guias"
 import Slider from "./components/Slider"
+import Footer from "./components/Footer"
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Main/>
       <Slider/>
       <Guias/>
+      <Footer/>
     </div>
   );
 }
