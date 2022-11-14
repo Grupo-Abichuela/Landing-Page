@@ -481,3 +481,9 @@ footer {
 }
 
 /* footer end */
+.artistas{ 
+  width: 1440px;
+height: 500px;
+background: #FFF1F4;
+margin-bottom: 0;
+}
