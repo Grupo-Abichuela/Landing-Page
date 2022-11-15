@@ -4,6 +4,7 @@ import Guias from "./components/Guias"
 import Slider from "./components/Slider"
 import Footer from "./components/Footer"
 
+
 function Home() {
   return (
     <div>
