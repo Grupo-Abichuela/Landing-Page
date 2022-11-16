@@ -1,0 +1,29 @@
+.cartas-integrantes{
+    margin: 2rem 2rem 2rem;
+    padding: 1.5rem;
+    width: 500px;
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0);
+    transition: transform .3s ease-in-out;
+    cursor: pointer;
+}
+.cartas-integrantes:hover{
+    transform: scale(1.1);
+}
+.card_title{
+    font-weight: 800;
+    font-size: 1.5rem;
+}
+.card_image{
+    display: flex;
+    justify-content: flex-end;
+}
+.card_image img{
+    border-radius:10%;
+    height: 100px;
+    width: 100px;
+}
+.card_body ul{
+    list-style: none;
+    font-size:20px;
+    margin: 1rem 1rem;
+}
