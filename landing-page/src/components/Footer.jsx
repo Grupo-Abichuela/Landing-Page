@@ -3,6 +3,7 @@ import facebook_icon from "../img/facebook.png"
 import twitter_icon from "../img/twitter.png"
 import instagram_icon from "../img/instagram.png"
 import linkedin_icon from "../img/linkedin.png"
+import AboutUs from '../AboutUs';
 
 function Footerbar() {
     return (
@@ -34,7 +35,7 @@ function Footerbar() {
                 <li>
                     <ul class="acerca">
                         <li><th>Acerca de</th></li>
-                        <li><a href="#">Nosotros</a></li>
+                        <li><a href="/aboutus">Nosotros</a></li>
                         <li><a href="#">Términos y condiciones</a></li>
                         <li><a href="#">Política de Privacidad</a></li>
                     </ul>

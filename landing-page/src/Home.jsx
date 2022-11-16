@@ -5,6 +5,7 @@ import Slider from "./components/Slider"
 import Footer from "./components/Footer"
 import Estreno from "./components/Estreno"
 
+
 function Home() {
   return (
     <div>
