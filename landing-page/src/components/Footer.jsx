@@ -3,7 +3,6 @@ import facebook_icon from "../img/facebook.png"
 import twitter_icon from "../img/twitter.png"
 import instagram_icon from "../img/instagram.png"
 import linkedin_icon from "../img/linkedin.png"
-import AboutUs from '../AboutUs';
 
 function Footerbar() {
     return (
@@ -13,7 +12,7 @@ function Footerbar() {
                     <li>Subscribete</li>
                 </div>
                 <div id="correo-suscribete-input">
-                    <li>correo electronico</li>
+                    <input id="subscribe" type="text" name="key-words" placeholder="correo electronico"></input>
                 </div>
                 <li>suscribete para obeter ofertas y noticias</li>
                 <li></li>
@@ -35,7 +34,7 @@ function Footerbar() {
                 <li>
                     <ul class="acerca">
                         <li><th>Acerca de</th></li>
-                        <li><a href="/aboutus">Nosotros</a></li>
+                        <li><a href="#">Nosotros</a></li>
                         <li><a href="#">Términos y condiciones</a></li>
                         <li><a href="#">Política de Privacidad</a></li>
                     </ul>
