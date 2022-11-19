@@ -34,7 +34,7 @@ function Footerbar() {
                 <li>
                     <ul class="acerca">
                         <li><th>Acerca de</th></li>
-                        <li><a href="#">Nosotros</a></li>
+                        <li><a href="/aboutus">Nosotros</a></li>
                         <li><a href="#">Términos y condiciones</a></li>
                         <li><a href="#">Política de Privacidad</a></li>
                     </ul>
